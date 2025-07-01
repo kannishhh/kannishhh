@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kanish 👋</h1>
+<h1 align="center">Hi there, I'm Kanish Kainth👋</h1>
 
 <p align="center">
   🚀 Aspiring Frontend Developer | 📚 Learning JavaScript, Python & DSA
