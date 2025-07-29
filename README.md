@@ -9,7 +9,7 @@
 ### 🙋‍♂️ About Me:
 
 - 🔭 I’m currently working on **frontend projects** using React & JavaScript.
-- 🌱 I’m currently learning **JavaScript**, **Python**, and **Data Structures & Algorithms**.
+- 🌱 I’m currently learning **Python**, and **Data Structures & Algorithms**.
 - 💡 I like building responsive UIs and practicing coding problems.
 - 🗣️ Language: English, हिंदी, ਪੰਜਾਬੀ
 
@@ -17,10 +17,8 @@
 
 ### 🧠 Currently Learning:
 
-- 📘 JavaScript (ES6+)
 - 🧩 Data Structures & Algorithms (with LeetCode/From Akshay Saiani (Namaste Dev)).
 - 🐍 Python Basics
-- ⚛️ React
 
 ---
 
